@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToroGames34
 - 👀 I’m interested in game dev and web dev
 - 🌱 I’m currently learning system engineer
-- 💞️ I’m looking to collaborate on little game devs
+- 💞️ I’m looking to collaborate on little indie games(godot)
 - 📫 How to reach me dk
 
 <!---
